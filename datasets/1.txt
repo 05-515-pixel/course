@@ -1,0 +1,9 @@
+About this file
+Category : Specifies whether mail is spam or not.
+1 --> Spam
+0 --> Not spam
+
+Message : Raw text messages
+Combinations of Plain messages with headers and also few with HTML tags.
+
+File_Name: Unique message indicators
